@@ -11,6 +11,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" height="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -22,6 +23,10 @@
 <img align="left" alt="Redux-Saga" height="32px" src="https://user-images.githubusercontent.com/4254571/67069175-f38f7200-f19b-11e9-8a90-cf7dd763f86d.png" />
 <img align="left" alt="Antd" height="30px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 <img align="left" alt="Less" height="23px" src="https://prepros.io/img/home/less.png" />
+
+<br />
+<br />
+
 <img align="left" alt="Sass" height="30px" src="https://www.abeautifulsite.net/uploads/2017/02/sass.png?width=600&key=a18980ed50ba77f256a580d00ba54a8fe80d85f7a96bbe3ff3463890acc91fca" />
 <img align="left" alt="Jest" height="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png" />
 <img align="left" alt="Cypress" height="23px" src="https://miro.medium.com/max/836/0*9Int-Yddzzkf3Me3.png" />
