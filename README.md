@@ -2,12 +2,12 @@
 
 ### I'm a Developer!
 - I'm a web developer at [<img alt="wavecom" height="14px" src="https://www.wavecom.pt/wp-content/uploads/2019/12/Default-logo.png" />][wavecom]
-- I'm currently working in a react project [<img alt="react-solitaire-1995" height="14px" src="https://react-solitaire-1995.netlify.app/static/media/icon.1b164db7.png" />][project]
+- I'm currently working in a react project [<img alt="react-solitaire-1995" height="14px" src="https://spaulas.github.io/react-solitaire/static/media/icon.1b164db7.png" />][project]
 - 2020 Goals: start working remotely <img alt="remote" height="20px" src="https://image.flaticon.com/icons/svg/3169/3169211.svg" />
 
 ### Connect with me:
 
-[<img align="left" alt="react-solitaire-1995" height="40px" src="https://react-solitaire-1995.netlify.app/static/media/icon.1b164db7.png" />][project]
+[<img align="left" alt="react-solitaire" height="40px" src="https://spaulas.github.io/react-solitaire/static/media/icon.1b164db7.png" />][project]
 [<img align="left" alt="codeSTACKr | LinkedIn" height="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 
 <br />
@@ -41,5 +41,5 @@
 </p>
 
 [wavecom]: https://en.wavecom.pt/
-[project]: https://react-solitaire-1995.netlify.app/
+[project]: https://spaulas.github.io/react-solitaire/
 [linkedin]: https://www.linkedin.com/in/spaulas/?locale=en_US
