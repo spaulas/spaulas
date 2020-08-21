@@ -7,7 +7,7 @@
 
 ### Interesting Links:
 
-[<img align="left" alt="react-portfolio" height="40px" src="https://i.ibb.co/Hr0v91B/portfolio.png" />][react-portfolio]
+[<img align="left" alt="react-portfolio" height="40px" src="https://i.ibb.co/xCVDWc0/portfolio-removebg-preview.png" />][react-portfolio]
 [<img align="left" alt="react-solitaire" height="40px" src="https://spaulas.github.io/react-solitaire/static/media/icon.1b164db7.png" />][react-solitaire]
 [<img align="left" alt="codeSTACKr | LinkedIn" height="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 
