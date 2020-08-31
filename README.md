@@ -3,7 +3,7 @@
 ### I'm a Developer!
 - I'm a web developer at [<img alt="wavecom" height="14px" src="https://www.wavecom.pt/wp-content/uploads/2019/12/Default-logo.png" />][wavecom]
 - I'm currently working in a react project [<img alt="react-solitaire-1995" height="14px" src="https://spaulas.github.io/react-solitaire/static/media/icon.1b164db7.png" />][react-solitaire]
-- 2020 Goals: start working remotely <img alt="remote" height="20px" src="https://image.flaticon.com/icons/svg/3169/3169211.svg" />
+- 2020 Goals: start a new adventure <img alt="newchallenge" height="20px" src="https://webstockreview.net/images/emoji-clipart-muscle-10.png" />
 
 ### Interesting Links:
 
