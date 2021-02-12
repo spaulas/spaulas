@@ -25,7 +25,7 @@
 <img alt="Antd" height="40px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />&nbsp;&nbsp;
 <img alt="Material-UI" height="40px" src="https://www.imaginarycloud.com/blog/content/images/2020/06/material-logo.png" />&nbsp;&nbsp;
 <img alt="Less" height="35px" src="https://prepros.io/img/home/less.png" />&nbsp;&nbsp;
-  <img alt="Sass" height="30px" src="https://www.abeautifulsite.net/uploads/2017/02/sass.png?width=600&key=a18980ed50ba77f256a580d00ba54a8fe80d85f7a96bbe3ff3463890acc91fca" />&nbsp;&nbsp;
+  <img alt="Sass" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" />&nbsp;&nbsp;
 <img alt="Jest" height="40px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png" />&nbsp;&nbsp;
 <img alt="Cypress" height="35px" src="https://miro.medium.com/max/836/0*9Int-Yddzzkf3Me3.png" />&nbsp;&nbsp;
 <img alt="Node" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />&nbsp;&nbsp;
