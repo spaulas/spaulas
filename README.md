@@ -1,8 +1,8 @@
 ## Hey there, I'm Paula 👋
 
 ### I'm a Developer!
-- I'm a web developer at [<img alt="hapibot" height="32px" src="https://i.ibb.co/TM7j22b/download.png" />][hapibot]
-- I'm currently working on improving myself <img alt="newchallenge" height="20px" src="https://webstockreview.net/images/emoji-clipart-muscle-10.png" />
+- I'm a web developer at [<img alt="hapibot" height="24px" src="https://i.ibb.co/TM7j22b/download.png" />][hapibot]
+- I'm currently working on improving myself <img alt="newchallenge" height="24px" src="https://webstockreview.net/images/emoji-clipart-muscle-10.png" />
 
 ### Interesting Links:
 
