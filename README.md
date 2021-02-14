@@ -1,9 +1,8 @@
 ## Hey there, I'm Paula 👋
 
 ### I'm a Developer!
-- I'm a web developer at [<img alt="wavecom" height="14px" src="https://www.wavecom.pt/wp-content/uploads/2019/12/Default-logo.png" />][wavecom]
-- I'm currently working in a react project [<img alt="react-solitaire-1995" height="14px" src="https://spaulas.github.io/react-solitaire/static/media/icon.1b164db7.png" />][react-solitaire]
-- 2020 Goals: start a new adventure <img alt="newchallenge" height="20px" src="https://webstockreview.net/images/emoji-clipart-muscle-10.png" />
+- I'm a web developer at [<img alt="hapibot" height="32px" src="https://i.ibb.co/TM7j22b/download.png" />][hapibot]
+- I'm currently working on improving myself <img alt="newchallenge" height="20px" src="https://webstockreview.net/images/emoji-clipart-muscle-10.png" />
 
 ### Interesting Links:
 
@@ -42,7 +41,7 @@
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spaulas&show_icons=true&hide_border=true" />
 </p>
 
-[wavecom]: https://en.wavecom.pt/
+[hapibot]: https://www.hapibot.com/
 [react-portfolio]: https://spaulas.github.io/react-portifolio/
 [react-solitaire]: https://spaulas.github.io/react-solitaire/
 [linkedin]: https://www.linkedin.com/in/spaulas/?locale=en_US
