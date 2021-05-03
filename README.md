@@ -1,7 +1,7 @@
 ## Hey there, I'm Paula 👋
 
 ### I'm a Developer!
-- I'm a web developer at [<img alt="hapibot" height="24px" src="https://i.ibb.co/TM7j22b/download.png" />][hapibot]
+- I'm a web developer at [<img alt="hapibot" height="24px" src="https://contact-centres.com/wp-content/uploads/2021/04/talkdesk-logo-800px-april-2021.jpg" />][talkdesk]
 - I'm currently working on improving myself <img alt="newchallenge" height="24px" src="https://webstockreview.net/images/emoji-clipart-muscle-10.png" />
 
 ### Interesting Links:
@@ -41,7 +41,7 @@
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spaulas&show_icons=true&hide_border=true" />
 </p>
 
-[hapibot]: https://www.hapibot.com/
+[talkdesk]: https://www.talkdesk.com/
 [react-portfolio]: https://spaulas.github.io/react-portifolio/
 [react-solitaire]: https://spaulas.github.io/react-solitaire/
 [linkedin]: https://www.linkedin.com/in/spaulas/?locale=en_US
