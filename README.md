@@ -1,7 +1,7 @@
 ## Hey there, I'm Paula 👋
 
 ### I'm a Developer!
-- I'm a web developer at [<img alt="hapibot" height="24px" src="https://contact-centres.com/wp-content/uploads/2021/04/talkdesk-logo-800px-april-2021.jpg" />][talkdesk]
+- I'm a web developer at [<img alt="talkdesk" height="24px" src="https://contact-centres.com/wp-content/uploads/2021/04/talkdesk-logo-800px-april-2021.jpg" />][talkdesk]
 - I'm currently working on improving myself <img alt="newchallenge" height="24px" src="https://webstockreview.net/images/emoji-clipart-muscle-10.png" />
 
 ### Interesting Links:
